@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">U3_EjercicioSpinner1</string>
+    <string name="pregunta">¿A cuantos km/h podemos circular por una autovia?</string>
+    <string name="resp90">A 90km/h</string>
+    <string name="resp120">A 120km/h</string>
+    <string name="respno">No hay límite de velocidad</string>
+    <string name="btntest">Tipo test</string>
+    <string name="btnrespuesta">Enviar respuesta</string>
+    <string name="cbrespuesta">Esta pregunta está repetida</string>
+    <string name="tvtipo">Tipo de test</string>
+</resources>
